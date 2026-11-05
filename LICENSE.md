@@ -2,7 +2,7 @@
 
 ## Treści (dokumenty, scenariusze, materiały, prezentacje)
 
-Creative Commons Uznanie autorstwa – Użycie niekomercyjne – Na tych samych warunkach 4.0 Międzynarodowe (CC BY-NC-SA 4.0).
+Creative Commons Uznanie autorstwa - Użycie niekomercyjne - Na tych samych warunkach 4.0 Międzynarodowe (CC BY-NC-SA 4.0).
 
 Możesz kopiować i adaptować materiały w celach niekomercyjnych, pod warunkiem podania autorstwa i udostępnienia zmian na tej samej licencji. Pełny tekst: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl
 
@@ -10,7 +10,7 @@ Możesz kopiować i adaptować materiały w celach niekomercyjnych, pod warunkie
 
 MIT License
 
-Copyright (c) 2026 [Imię i nazwisko]
+Copyright (c) 2026 Joanna Serwatko
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
