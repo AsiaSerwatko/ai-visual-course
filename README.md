@@ -1,4 +1,4 @@
-# Grafika i wideo AI dla marketingu – projekt kursu
+# Grafika i wideo AI dla marketingu - projekt kursu
 
 Kompletny projekt kursu szkoleniowego: od analizy potrzeb, przez program i materiały, po model cenowy, plan wdrożenia i ewaluację. Repozytorium jest częścią mojego portfolio jako **IT Training Coordinator**.
 
