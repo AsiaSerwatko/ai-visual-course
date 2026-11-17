@@ -16,6 +16,19 @@ Kompletny projekt kursu szkoleniowego: od analizy potrzeb, przez program i mater
 | Próg rentowności | 6 uczestników na edycję; rekomendowane minimum uruchomienia: 8 |
 | Marża przy 12 os. | ok. 46% |
 
+## Program w 5 blokach
+
+| Blok | Temat | Czas | Co uczestnik wynosi |
+|---|---|---|---|
+| 1 | Fundamenty | 3 h | Moodboard i kierunek wizualny kampanii |
+| 2 | Grafika statyczna | 4 h | 5–8 kreacji w spójnym stylu |
+| 3 | Postprodukcja i formaty | 2 h | Pakiet kreacji w formatach 1:1, 4:5, 9:16 i 16:9 |
+| 4 | Wideo AI | 4 h | Spot 15 s w formacie 9:16 |
+| 5 | Prawo, etyka, workflow | 3 h | Checklista AI Act i wycena projektu |
+| Projekt końcowy (opcjonalny) | Kampania dla nowej marki | 4 h + 2 konsultacje | Case do portfolio |
+
+Łącznie 16 h zajęć i 4 h projektu końcowego. Szczegółowy program i scenariusze zajęć: [02-program](02-program/)
+
 ## Problem, który rozwiązuje kurs
 
 Generatywne AI weszło do codziennej pracy marketingu: 49% marketerów na świecie używa AI codziennie do tworzenia obrazów i wideo ([Canva / Morning Consult, 2025](https://emarketer.com/content/almost-majority-of-marketers-use-ai-create-images-videos)). Jednocześnie brak przeszkolenia zespołu to najczęściej wskazywana bariera wdrożenia (50% firm, [Botco.ai via MarTech](https://martech.org/73-of-marketers-now-using-generative-ai-tools/)). Narzędzia są złożone, wynik zależy od wiedzy o kadrze, świetle i kompozycji, a od 2 sierpnia 2026 dochodzą obowiązki oznaczania treści z AI Act. Kurs uczy robić to profesjonalnie, a nie generować „AI slop”.
