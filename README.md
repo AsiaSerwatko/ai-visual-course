@@ -72,6 +72,7 @@ Szczegóły: [analiza potrzeb i rynku](01-analiza-potrzeb/analiza-rynku.md).
 ## English summary
 
 A complete design of a 16-hour live online course on AI-generated images and video for marketers: needs analysis, syllabus, minute-by-minute session plans, trainer notes, a Jupyter demo notebook, pricing strategy with a break-even calculator, rollout plan, risk register, Kirkpatrick-based evaluation, and an EU AI Act compliance checklist. Portfolio project for an IT Training Coordinator role. Content in Polish.
+The course runs in 5 blocks: Foundations (3 h), Static Graphics (4 h), Post-production & Formats (2 h), AI Video (4 h) and Law, Ethics & Workflow (3 h), followed by an optional 4-hour final project, an independent campaign for a new brand.
 
 ## Licencja
 
